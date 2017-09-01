@@ -10,13 +10,13 @@ Text:
 
 ##Издательства
 
-Hitzerot, Berlin 
-Megawords, Philadelphia
-Motto, Berlin
-Klick Klack Publishing, Munich
-Possible Books, Berlin
-Printed Matter, New York
-The Flop box, New York
+(link: http://hitzerot.com/ text: Hitzerot popup:yes), Berlin 
+(link: http://megawordsmagazine.com/ text: Megawords popup:yes), Philadelphia
+(link: http://www.mottodistribution.com/ text: Motto popup:yes), Berlin
+(link: http://klickklack-publishing.com/ text: Klick Klack Publishing popup:yes), Munich
+(link: http://www.possible-books.com/ text: Possible Books popup:yes), Berlin
+(link: https://www.printedmatter.org/ text: Printed Matter popup:yes), New York
+(link: http://www.theflopbox.com/ text: The Flop Box popup:yes), New York
 
 ++++
 
