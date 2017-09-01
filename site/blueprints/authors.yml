@@ -1,0 +1,31 @@
+title: Authors
+
+pages: false
+options:
+  template: false
+  url: false
+  status: false
+  delete: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+  author:
+    label: Authors
+    type: structure
+    default:
+      - profilepic: img.jpg
+      - name: Max
+      - text: lorem ipsum
+    fields:
+      profilepic:
+        label: Image
+        type: select
+        options: images
+      name:
+        label: Name
+        type: text
+      text:
+        label: Description
+        type: textarea

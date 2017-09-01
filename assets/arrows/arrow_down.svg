@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="70px" viewBox="0 0 65 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M28.4626984,57.6310823 L8.01719297,37.1855769 L0.95836944,37.1855769 L30.9583694,67.1855769 L60.9583694,37.1855769 L53.8995459,37.1855769 L33.4540404,57.6310823 L33.4540404,0.998347467 L28.4626984,0.998347467 L28.4626984,57.6310823 Z" id="path-1"></path>
+    </defs>
+    <g id="Final-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Start" transform="translate(-597.000000, -120.000000)" fill-rule="nonzero">
+            <g id="arrow" transform="translate(598.500000, 120.500000)">
+                <g id="Combined-Shape">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#EAEAEA" stroke-width="1" d="M27.9626984,56.4239756 L27.9626984,0.498347467 L33.9540404,0.498347467 L33.9540404,56.4239756 L53.6924391,36.6855769 L53.8995459,36.6855769 L62.1654762,36.6855769 L30.9583694,67.8926836 L-0.248737342,36.6855769 L8.22429975,36.6855769 L27.9626984,56.4239756 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

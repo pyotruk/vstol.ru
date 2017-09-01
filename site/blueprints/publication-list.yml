@@ -1,0 +1,16 @@
+title: Publication list
+
+pages:
+  template:
+    - zine
+    - page
+
+options:
+  status: true
+
+files: false
+
+fields:
+  title:
+    label: Title
+    type:  text
