@@ -39,7 +39,7 @@
   <li class="menu-item languages">
   <?php
     foreach($site->languages() as $language): ?>
-    <a href="<?php echo $language->url() ?>" <?php e($site->language() == $language, 'class="active"') ?>>
+    <a href="<?php echo $page->url($language->code()) ?>" <?php e($site->language() == $language, 'class="active"') ?>>
       <?php echo html($language->code()) ?>
     </a>
     <?php
