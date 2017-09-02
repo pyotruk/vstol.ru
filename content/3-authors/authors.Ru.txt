@@ -31,5 +31,8 @@ Author:
   name: Володимер
 - 
   profilepic: evgeniy-e_vstol.jpg
-  name: Evgeniy E.
-  text: ""
+  name: Евгений Е.
+  text: >
+    Грязные руки, камера,
+    полный рюкзак и
+    пустой кошелек.
