@@ -19,21 +19,20 @@ c::set('license', 'put your license key here');
 c::set('home', 'publications');
 c::set('languages', array(
   array(
-    'code'    => 'Ru',
+    'code'    => 'ru',
     'name'    => 'Russian',
     'default' => true,
     'locale'  => 'ru_RU',
     'url'     => '/',
   ),
   array(
-    'code'    => 'En',
+    'code'    => 'en',
     'name'    => 'English',
     'locale'  => 'en_US',
     'url'     => '/en',
   ),
 ));
 c::set('language.detect', true);
-c::set('debug', true);
 
 /*
 
