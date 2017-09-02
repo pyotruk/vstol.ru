@@ -190,6 +190,9 @@ header nav ul.menu li.menu-item:hover, header nav ul.menu li.is-active {
         flex-basis: 0 !important;
         padding: 0 !important;
   }
+  header nav ul.menu li.menu-item:nth-child(even) {
+      border-right: 0.125vw solid #fff;
+  }
 }
 
 /* General */
