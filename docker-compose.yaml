@@ -1,0 +1,12 @@
+version: '3.3'
+
+services:
+  vstol-ru:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    image: vstol.ru
+    ports:
+      - 80:80
+    volumes:
+      - ./nginx-logs:/var/log/nginx
