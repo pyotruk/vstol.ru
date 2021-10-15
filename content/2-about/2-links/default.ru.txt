@@ -1,0 +1,30 @@
+Title: Ссылки
+
+----
+
+Text: 
+
+##Ссылки
+
+(columns…)
+
+##Издательства
+
+(link: http://hitzerot.com/ text: Hitzerot popup:yes), Берлин
+(link: http://megawordsmagazine.com/ text: Megawords popup:yes), Филадельфия
+(link: http://www.mottodistribution.com/ text: Motto popup:yes), Берлин
+(link: http://klickklack-publishing.com/ text: Klick Klack Publishing popup:yes), Мюнхен
+(link: http://www.possible-books.com/ text: Possible Books popup:yes), Берлин
+(link: https://www.printedmatter.org/ text: Printed Matter popup:yes), Нью Йорк
+(link: http://www.theflopbox.com/ text: The Flop Box popup:yes), Нью Йорк
+(link: http://unlockfair.com/ text: Unlock Book Fair popup:yes), Мадрид
+
+++++
+
+##Художники
+
+(link: http://volodimer.tumblr.com/ text: Володимер popup:yes)
+(link: https://www.facebook.com/grisha.soyuzmultfilm/media_set?set=a.383120715099433.89838.100002045241125&type=3 text: Гриша popup:yes)
+(link: https://www.instagram.com/kirillvskobkahkto/ text: Кирилл Кто popup:yes)
+ 
+(…columns)

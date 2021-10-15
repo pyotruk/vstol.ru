@@ -1,0 +1,41 @@
+Title: Авторы
+
+----
+
+Authors: 
+
+----
+
+Author: 
+
+- 
+  email: sascha@getkirby.com
+  profile_pic: query
+  text: >
+    Фотографирует на
+    плёнку,
+    преимущественно на
+    просроченную, её
+    можно найти или
+    купить по дешёвке.
+  profilepic: vladimir-s_vstol.jpg
+  name: Владимир С.
+- 
+  email: nico@getkirby.com
+  profilepic: volodimer_vstol.jpg
+  text: |
+    Видео, фото, рисование на улице, файнарт. Сам не понимая, чему должен уделить большее внимание и должен ли вообще, а может вовсе и ничего не стоит продолжать, а начать размеренную жизнь с рабочим графиком пять два и со стабильным заработком.
+    
+    (link: http://volodimer.tumblr.com/ text: Tumblr popup: yes) (link: https://vimeo.com/volodimer text: Vimeo popup: yes)
+  name: Володимер
+- 
+  profilepic: evgeniy-e_vstol.jpg
+  name: Евгений Е.
+  text: |
+    Грязные руки, камера, полный рюкзак и пустой кошелёк.
+    
+    (link: https://www.instagram.com/cityofworms/ text: Instagram popup: yes)
+- 
+  profilepic: pavel-kosmosov_vstol.jpg
+  name: Павел Космосов
+  text: Уличный учёный.

@@ -1,0 +1,38 @@
+Title: Authors
+
+----
+
+Authors: 
+
+----
+
+Author: 
+
+- 
+  email: sascha@getkirby.com
+  profile_pic: query
+  text: >
+    Photographs on film, primarily on
+    expired film, which can be purchased
+    cheaply.
+  profilepic: vladimir-s_vstol.jpg
+  name: Vladimir S.
+- 
+  email: nico@getkirby.com
+  profilepic: volodimer_vstol.jpg
+  text: |
+    Video, photography, painting on the street, fine art – he doesn't understand which part he should give more attention, or should he do that at all. Maybe he doesn't need to continue with anything, and needs to start living a balanced life, with a five day work week and stable pay.
+    
+    (link: http://volodimer.tumblr.com/ text: Tumblr popup: yes) (link: https://vimeo.com/volodimer text: Vimeo popup: yes)
+  name: Volodimer
+- 
+  profilepic: evgeniy-e_vstol.jpg
+  name: Evgeniy E.
+  text: |
+    Dirty hands, camera, full backpack and empty wallet.
+    
+    (link: https://www.instagram.com/cityofworms/ text: Instagram popup: yes)
+- 
+  profilepic: pavel-kosmosov_vstol.jpg
+  name: Pavel Kosmosov
+  text: Street scientist.
